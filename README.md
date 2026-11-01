@@ -1,3 +1,10 @@
+datheon-python-internship/
+├── README.md
+├── .gitignore
+├── task1_hangman/        (hangman.py, words.txt)
+├── task2_file_organizer/ (organizer.py)
+├── task3_chatbot/        (chatbot.py, sample_faq.json)
+├── task4_portfolio_tracker/ (portfolio.py, constituents.csv, sample_prices.csv)
 # Python Internship Tasks - Datheon
 
 Four beginner-friendly Python projects (standard library only).
